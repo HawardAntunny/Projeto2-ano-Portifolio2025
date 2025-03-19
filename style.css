@@ -6,25 +6,25 @@
     --cor--destaque: #52cf20da;
 }
 
-body{
+body {
     font-family: 'Chakra Petch', sans-serif;
-    color: var(--cor--principal) ;
+    color: var(--cor-principal);
 }
 
-h1, h2, h5{
-    color: var(--cor--secundaria);
+h1, h2, h5 {
+    color: var(--cor-secundaria);
     font-weight: 700;
 }
 
-.Lead, .bnt-link{
-    color: var(--cor--destaque);
+.lead, .btn-link {
+    color: var(--cor-destaque);
     font-weight: 700;
 }
 
-a, .bnt-link:hover{
-    color: var(--cor--principal); 
+a, .btn-link:hover {
+    color: var(--cor-principal)
 }
 
-a:hover {
+a:hover{
     color: var(--cor-destaque);
 }
