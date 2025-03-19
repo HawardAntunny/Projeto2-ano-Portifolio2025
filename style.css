@@ -19,6 +19,6 @@ footer a {
     color: var(--cor--principal); 
 }
 
-footer a:hover{
-    color: var(--cor--destaque)
+footer a:hover {
+    color: var(--cor-destaque);
 }
