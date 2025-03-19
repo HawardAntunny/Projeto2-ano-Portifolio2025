@@ -1,1 +1,4 @@
-# Projeto2-ano-Portifolio2025
+# Estilização da página
+-- Link do Chakcra 
+-- Cores
+-- Titulos e footer
